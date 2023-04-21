@@ -19,7 +19,7 @@ Throughout this journey, we'll be focusing on Mobile Robots only .
 ## About this Repository
 This is repository for the course **Robotics from Design to 3D printing using FreeCad** availble at Udemy . Complete source files are open sourced.
 
- ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/main/image_resources/main_cover.png)
+ ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/master/image_resources/main.png)
 - **[[Get course Here]](https://www.udemy.com/course/robotics-3d-modeling-and-printing/?couponCode=LAUNCH)**
 ----
 ## Using this Repository
@@ -44,11 +44,11 @@ This is repository for the course **Robotics from Design to 3D printing using Fr
 ---
 ## Features
 * **Differential Drive Robot**
-  -  ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/main/image_resources/ddr.gif)
+  -  ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/master/image_resources/ddr.gif)
 * **Self balancing Robot**
-  -  ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/main/image_resources/sbr.gif)
+  -  ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/master/image_resources/sbr.gif)
 * **2D Slam Bot**
-  - ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/main/image_resources/sb.gif)
+  - ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/master/image_resources/sb.gif)
 
 
 
