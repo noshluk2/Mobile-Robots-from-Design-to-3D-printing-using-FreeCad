@@ -20,7 +20,7 @@ Throughout this journey, we'll be focusing on Mobile Robots only .
 This is repository for the course **Robotics from Design to 3D printing using FreeCad** availble at Udemy . Complete source files are open sourced.
 
  ![alt text](https://github.com/noshluk2/Mobile-Robots-from-Design-to-3D-printing-using-FreeCad/blob/master/image_resources/main.png)
-- **[[Get course Here]](https://www.udemy.com/course/robotics-3d-modeling-and-printing/?couponCode=LAUNCH)**
+- **[[Get course Here]](https://www.udemy.com/course/robotics-3d-modeling-and-printing/?couponCode=MAY_LEARN)**
 ----
 ## Using this Repository
 * Launch the FreeCad and open any robot you want to View design off
@@ -55,7 +55,7 @@ This is repository for the course **Robotics from Design to 3D printing using Fr
 ----
 ## Link to the Course
 Below is a discounted coupon for people who want to take the course in which more explaination to this code has been added
-**[[Get course Here]](https://www.udemy.com/course/robotics-3d-modeling-and-printing/?couponCode=LAUNCH)**
+**[[Get course Here]](https://www.udemy.com/course/robotics-3d-modeling-and-printing/?couponCode=MAY_LEARN)**
 
 ----
 
